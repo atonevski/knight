@@ -1,0 +1,13 @@
+name: knight
+version: 0.1.0
+
+authors:
+  - Andreja Tonevski <atonevski@gmail.com>
+
+targets:
+  knight:
+    main: src/knight.cr
+
+crystal: 0.23.1
+
+license: MIT
